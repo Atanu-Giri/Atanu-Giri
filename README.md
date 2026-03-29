@@ -74,7 +74,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Atanu-Giri&show_icons=true&theme=tokyonight)
 
 ---
 
