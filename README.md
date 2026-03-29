@@ -21,11 +21,13 @@
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Frontend
 
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 
 ### ⚙️ Backend
@@ -36,6 +38,7 @@
 ### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🧰 Tools
 
@@ -77,9 +80,9 @@
 
 ## 🔗 Connect With Me
 
-* 💼 LinkedIn: (add your link)
-* 🌐 Portfolio: (your vercel link)
+* 💼 LinkedIn: https://www.linkedin.com/in/atanu-giri-localhost/
+* 🌐 Portfolio: https://atanugiri-portfolio.vercel.app/
 
 ---
 
-⭐️ From [AtanuGiri](https://github.com/YOUR_USERNAME)
+⭐️ From [AtanuGiri](https://github.com/Atanu-Giri)
