@@ -71,10 +71,14 @@
 ---
 
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Atanu-Giri\&show_icons=true\&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Atanu-Giri&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Atanu-Giri\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atanu-Giri\&layout=compact\&theme=tokyonight)
+
 
 ---
 
